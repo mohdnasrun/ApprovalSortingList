@@ -1,4 +1,4 @@
-SalesOrderApprovalGrouping
+ApprovalSalesOrder
 A simple Java program to group sales orders by their approvers. Each sales order has a unique ID and is assigned to one or more approvers. The program processes a list of sales orders and outputs the approvers and the associated sales orders they are responsible for.
 
 Features
@@ -55,7 +55,7 @@ The program includes two main components:
 
 SalesOrder Class: Represents a sales order with an ID and a list of approvers.
 
-SalesOrderApprovalGrouping Class: Contains the main method and the grouping logic.
+ApprovalSalesOrderMain Class: Contains the main method and the grouping logic.
 
 Grouping Logic
 java
